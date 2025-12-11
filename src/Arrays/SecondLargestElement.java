@@ -32,7 +32,7 @@ public class SecondLargestElement {
                 secondlar = arr[i];
             }
         }
-        System.out.println("Second largest element in an array is: "+secondlar);
+        System.out.print("Second largest element in an array is: "+secondlar);
 
 
 
