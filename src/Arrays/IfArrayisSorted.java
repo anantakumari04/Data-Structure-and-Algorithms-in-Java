@@ -37,7 +37,7 @@ public class IfArrayisSorted {
             System.out.println("Array is sorted");
         }
         else
-            System.out.println("Array is not sorted");
+            System.out.println("Array is not sorted.");
 
     }
 }
