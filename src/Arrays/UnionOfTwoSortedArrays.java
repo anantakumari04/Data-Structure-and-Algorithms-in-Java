@@ -24,7 +24,7 @@ public class UnionOfTwoSortedArrays {
          for(int i = 0 ; i<n1; i++){
              a[i] = sc.nextInt();
          }
-         System.out.print("Enter elements for 1st array");
+         System.out.print("Enter elements for 2nd array");
 
          int[] b = new int[n2];
 
